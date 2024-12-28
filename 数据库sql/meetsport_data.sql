@@ -21,7 +21,7 @@ CREATE TABLE `meetsport_admin`  (
   PRIMARY KEY (`ADMIN_ID`) USING BTREE
 ) ENGINE = InnoDB AUTO_INCREMENT = 20 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_0900_ai_ci ROW_FORMAT = DYNAMIC;
 
-INSERT INTO `meetsport_admin` VALUES (1, 'admin', 'e10adc3949ba59abbe56e057f20f883e', 'Àî»ª', NULL, 1, 1, 1, 1735302901541, 0, 1734786380484);
+INSERT INTO `meetsport_admin` VALUES (1, 'admin', 'e10adc3949ba59abbe56e057f20f883e', 'admin', NULL, 1, 1, 1, 1735302901541, 0, 1734786380484);
 
 -- ----------------------------
 -- Table structure for meetsport_fav

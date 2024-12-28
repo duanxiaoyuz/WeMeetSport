@@ -133,7 +133,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <version>${spring-boot.version}</version>
                 <configuration>
-                    <mainClass>com.cclinux.MeetSportApplication</mainClass>
+                    <mainClass>com.cclinux.SmartWorkApplication</mainClass>
                     <skip>true</skip>
                 </configuration>
                 <executions>
